@@ -1,0 +1,49 @@
+/*
+////////////////////////////////////////////////////////////////////////// 
+//
+// 02. FONTS
+//
+////////////////////////////////////////////////////////////////////////// 
+*/
+
+//
+// Proxima Nova Font
+// --------------------------------------------------
+
+// Proxima Light 200.
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Light.woff') format('woff'),
+         url('../fonts/ProximaNova-Light.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+// Proxima Regular 400.
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Regular.woff') format('woff'),
+         url('../fonts/ProximaNova-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal; 
+}
+
+// Proxima Bold 700.
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/ProximaNova-Bold.woff') format('woff'),
+         url('../fonts/ProximaNova-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fontawesome';
+    src: url('../fonts/fontawesome-webfont.woff') format('woff'),
+         url('../fonts/fontawesome-webfont.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
